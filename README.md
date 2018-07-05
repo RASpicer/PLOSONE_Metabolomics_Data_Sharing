@@ -10,5 +10,5 @@ All analysis was performed using [R version 3.3.2](https://cran.r-project.org/).
 
 The analysis code can be found in [analysis-code/analysis_PLOSONE_datasharing.Rmd](https://github.com/RASpicer/PLOSONE_Metabolomics_Data_Sharing/tree/master/analysis_code/analysis_PLOSONE_datasharing.Rmd). The R Markdown file was generated using [knitr version 1.17](https://cran.r-project.org/web/packages/knitr/index.html). 
 
-The <b>html output</b> can be viewed on [rawgit](https://rawgit.com/RASpicer/PLOSONE_Metabolomics_Data_Sharing/tree/master/analysis_code/analysis_PLOSONE_datasharing.html).
+The <b>html output</b> can be viewed on [rawgit](https://cdn.rawgit.com/RASpicer/PLOSONE_Metabolomics_Data_Sharing/tree/master/analysis_code/analysis_PLOSONE_datasharing.html).
  
